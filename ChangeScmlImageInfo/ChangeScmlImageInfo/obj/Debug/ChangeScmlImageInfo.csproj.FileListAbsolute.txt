@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\bin\Debug\ChangeScmlImageInfo.exe
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\bin\Debug\ChangeScmlImageInfo.pdb
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Debug\ChangeScmlImageInfo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Debug\ChangeScmlImageInfo.Form1.resources
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Debug\ChangeScmlImageInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Debug\ChangeScmlImageInfo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Debug\ChangeScmlImageInfo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Debug\ChangeScmlImageInfo.exe
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Debug\ChangeScmlImageInfo.pdb

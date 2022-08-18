@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Release\ChangeScmlImageInfo.Form1.resources
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Release\ChangeScmlImageInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Release\ChangeScmlImageInfo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Release\ChangeScmlImageInfo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\bin\Release\ChangeScmlImageInfo.exe
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\bin\Release\ChangeScmlImageInfo.pdb
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Release\ChangeScmlImageInfo.exe
+C:\Users\Administrator\Desktop\token\C#\ChangeScmlImageInfo\ChangeScmlImageInfo\obj\Release\ChangeScmlImageInfo.pdb
